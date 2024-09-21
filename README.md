@@ -17,9 +17,6 @@ I'm passionate about **code** and **systems**, combining creativity and tech to 
 
 ### 🛠️ <span style="color: #1E90FF;">**What I'm Building Right Now**</span>
 
-#### ⏳ **WebPhone**
-A secret project under construction. **Stay tuned**.
-
 #### 🎮 **SkyCases**
 Open cases, collect items, and sell them to dominate the in-game economy.
 
