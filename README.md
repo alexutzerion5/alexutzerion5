@@ -17,8 +17,8 @@ I'm passionate about **code** and **systems**, combining creativity and tech to 
 
 ### 🛠️ <span style="color: #1E90FF;">**What I'm Building Right Now**</span>
 
-#### 🎮 **SkyCases**
-Open cases, collect items, and sell them to dominate the in-game economy.
+#### 🎮 **Lavand**
+My minecraft network! (Romanian).
 
 #### 🍊 **RexSystems**
 My organization where we do fun stuff!
@@ -39,6 +39,6 @@ As a **junior developer**, I’m constantly sharpening my skills, whether in **w
 ### 📬 <span style="color: #00CED1;">**Let's Connect!**</span>
 - **Email**: [contact@ilie.top](mailto:contact@ilie.top)
 - **Discord**: @alexutzerion5
-- **Minecraft Server**: [SkyCases](http://dsc.gg/cases)
+- **Minecraft Server**: [Lavand](http://discord.gg/lavand)
 
 ---
