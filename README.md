@@ -1,7 +1,7 @@
 # 🌌 <span style="color: #00BFFF;">**Welcome to My Digital Playground!**</span>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/banners/1188822591989891082/bb2e21fe4d4c772444dc2f961f0088cb?size=4096" alt="banner" width="100%">
+  <img src="https://i.ibb.co/5vGJT3q/cover.png" alt="banner" style="max-width: 800px; width: 100%;">
 </p>
 
 👋 **Hey! I'm @alexutzerion5**, a <span style="color: #FF4500;">**junior developer**</span> on a mission to learn, create, and grow. From web development to server management, I’m always exploring new possibilities.
