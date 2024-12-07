@@ -26,7 +26,7 @@ My organization where we do fun stuff!
 ---
 
 ### 🔧 <span style="color: #FF69B4;">**Tech Stack & Tools**</span>
-- **Languages**: HTML, CSS, JavaScript, TypeScript, PHP, Python
+- **Languages**: HTML, CSS, JavaScript, Java, PHP, Python
 - **Automation**: Bash, Python scripting
 
 ---
