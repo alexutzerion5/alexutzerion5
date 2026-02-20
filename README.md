@@ -1,7 +1,6 @@
 # 🕵️ **Alex - The "Developer"**
-
 > *"I once restarted a computer. The FBI is still looking for me."*
-
+###### i used AI for this too btw.
 ---
 
 ## 🚨 **WARNING: DANGEROUS HACKER ALERT** 🚨
