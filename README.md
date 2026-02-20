@@ -20,7 +20,7 @@ I'm basically **Popesco 2.0** but with less skills and more AI help.
 
 - 🎯 **Current Mission**: Hiding from FBI after changing Windows theme to dark mode
 - 🍊 **Side Quest**: [RexSystems](https://github.com/RexSystems) - Totally legit hacking organization
-- 🎮 **Cover Operation**: [Lavand MC Network](http://discord.gg/lavand) - For intelligence gathering (and fun)
+- 🎮 **Cover Operation**: [Lavand MC Network](http://lavand.eu/discord) - For intelligence gathering (and fun)
 - 🤖 **Secret Weapon**: Claude & ChatGPT (they do all the work, I take credit)
 
 ---
@@ -92,7 +92,6 @@ $ echo "I'm in"                     # Every movie ever
 
 - 🌐 **Email**: [contact@694206767.xyz](mailto:contact@694206767.xyz)
 - 💬 **Discord**: @alexutzerion5 (send help and memes)
-- 🎮 **Secret Base**: [discord.gg/lavand](http://discord.gg/lavand)
 
 ---
 
